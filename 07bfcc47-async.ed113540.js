@@ -1,0 +1,1 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["07bfcc47"],{"07bfcc47":function(e,n,o){"use strict";o.d(n,"__esModule",{value:!0}),o.e(n,{InfoModule:function(){return f.InfoModule;},createInfoServices:function(){return f.createInfoServices;}});var f=o("23685fe3");o("05e4038c");}}]);
